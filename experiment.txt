@@ -1,0 +1,4 @@
+Introduction to Git
+
+Git is a distributed version control system.
+It tracks changes and supports collaboration.
